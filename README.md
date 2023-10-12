@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I'm William 👋
 
-<!--
-**William-Dbt/William-Dbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ever since I was a child, the worlds of video games and IT have opened their arms to me.  
+From simple player to administrator and game server configurator, it became a passion.  
+As a student of 42Paris, I'm blossoming more and more in this field.  
 
-Here are some ideas to get you started:
+### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=william-dbt&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats of William](https://github-readme-stats.vercel.app/api?username=william-dbt&show_icons=true&theme=radical&hide_border=true&count_private=false&include_all_commits=true&hide=issues,contribs)
+
+### How to reach me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/williamdebotte/)
