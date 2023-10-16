@@ -13,8 +13,10 @@ As a student of 42Paris, I'm blossoming more and more in this field.
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=william-dbt&show_icons=true&theme=radical&hide_border=true&count_private=false&include_all_commits=true&hide=issues,contribs" />
   </a>
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 </div>
 
 ## How to reach me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/williamdebotte/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:william.debotte.pro@gmail.com)
