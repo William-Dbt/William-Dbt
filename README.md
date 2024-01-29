@@ -31,8 +31,8 @@ As a student of 42Paris, I'm blossoming more and more in this field.
 ### 42 Projects
 | Project name | Description | Language(s) |
 | --- | --- | --- |
-| [snow-crash](https://github.com/William-Dbt/snow-crash) | This project is a modest introduction to the wide world of cyber security. It aims to discover, through several little challenges, cyber security in various fields by exploiting an .iso file | <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> |
 | [rainfall](https://github.com/William-Dbt/rainfall) | The next step in our first steps in the cybersecurity progression at 42 Paris, this project is more about reverse engineering and buffer exploitation | <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> |
+| [snow-crash](https://github.com/William-Dbt/snow-crash) | This project is a modest introduction to the wide world of cyber security. It aims to discover, through several little challenges, cyber security in various fields by exploiting an .iso file | <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> |
 
 ### 42 Common Core Projects
 | Project name | Description | Language(s) |
