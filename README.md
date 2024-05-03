@@ -29,8 +29,17 @@ As a student of 42Paris, I'm blossoming more and more in this field.
 | [Badminton Tournament Website](https://github.com/William-Dbt/usjm_www-tournament) (In progress..) | It's the graphical version of [this](https://github.com/William-Dbt/usjm_badtournament), this will be helpful for those who don't use terminal | <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="ttps://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> |
 
 ### 42 Projects
-| Project name | Description | Language(s) |
+
+##### What is [42](https://42.fr/en/homepage/)?  
+42 is a school focuses on project-based learning and teamwork, rather than theoretical education.  
+Below is a list of projects realized at 42.  
+
+| Project name / Category | Description | Language(s) |
 | --- | --- | --- |
+| Piscines
+| [Python for Data Sciences](https://github.com/William-Dbt/piscine-python_data_science) | Learning python through severals modules oriented for Data Sciences | <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> |
+|||
+| Cybersecurity
 | [rainfall](https://github.com/William-Dbt/rainfall) | The next step in our first steps in the cybersecurity progression at 42 Paris, this project is more about reverse engineering and buffer exploitation | <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> |
 | [snow-crash](https://github.com/William-Dbt/snow-crash) | This project is a modest introduction to the wide world of cyber security. It aims to discover, through several little challenges, cyber security in various fields by exploiting an .iso file | <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> |
 
