@@ -1,8 +1,12 @@
 # Hi there I'm William 👋
 
-Ever since I was a child, the worlds of video games and IT have opened their arms to me.  
-From simple player to administrator and game server configurator, it became a passion.  
-As a student of 42Paris, I'm blossoming more and more in this field.  
+I'm a freelance web developer specializing in crafting scalable and efficient web applications.  
+With a strong foundation from my time at 42 Paris and a passion for solving complex technical challenges, I bring tailored digital solutions to life.  
+
+From designing user-friendly interfaces to building robust backends and deploying full-stack applications, I thrive on delivering value through technology.  
+Whether you're looking for a custom project or need support with React, Node.js, or other technologies, I'm here to help turn your ideas into reality.  
+
+Let's build something great together! 🚀
 
 ## Stats
 
